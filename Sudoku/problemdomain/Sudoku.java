@@ -1,4 +1,4 @@
-package Sudoku;
+package Sudoku.problemdomain;
 
 import java.io.Serializable;
 
